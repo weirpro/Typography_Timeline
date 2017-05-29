@@ -1,0 +1,111 @@
+body {
+    font-family:'Lato', sans-serif; 'Halant', serif; "Avenir-BlackOblique", "Avenir-Black", "Avenir", "Avenir-Light", "Avenir-LightOblique", "Avenir, sans-serif"; 
+    font-size:12px;
+    background-color:#ddd;
+}
+
+
+#pre{ 
+    background-color: white;
+    width: 1024px;
+    height:650px;
+    font-family: 'Bebas';
+    background-image: url("images/typewriter.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 60%;
+    
+    
+    
+    
+}
+
+
+
+
+#container {
+	margin: 0 0 0 0;
+
+    
+}
+
+
+#svg {
+    width:1024px;
+    height:650px;
+    background-color:white;
+    display:block;    
+    position:absolute;
+    left:0;
+    right:0;
+    
+}
+
+
+
+#allText{
+    width:450px;
+	height:220px;
+    position:absolute;
+    left:250px;
+    top:200px;
+ }
+
+#pText{
+    font-family:avenir;
+	font-size:14px;
+    line-height: 2em;
+    text-align:justify;
+
+}
+
+#subject{
+    width:700px;
+	height:80px;
+    position:relative;
+    left:250px;
+    top:130px;
+    font-family: bebas;
+    font-size: 40px;
+    text-align: left;
+    color: orange;
+}
+
+#year{
+    width:300px;
+	height:110px;
+    position:absolute;
+    left:750px;
+    top:323px;
+    font-family: bebas;
+    font-size: 130px;
+    text-align: left;
+
+    
+
+}
+
+#place{
+    width:349px;
+	height:30px;
+    position:absolute;
+    left:250px;
+    top:190px;
+    font-family: avenir;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: left;
+    color:black;
+
+
+}
+    
+
+#photos{
+    width: 300px;
+    height:400px;
+    right:300px;
+    top:85px;
+    position: absolute;
+}
+    
